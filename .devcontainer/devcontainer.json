@@ -3,7 +3,7 @@
 {
 	"name": "Android Project",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mobiledevops/android-sdk-image"
+	"image": "thyrlian/android-sdk" // "mobiledevops/android-sdk-image"
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
