@@ -13,7 +13,10 @@
 				"adelphes.android-dev-ext",
 				"flimberger.android-system-tools",
 				"formulahendry.code-runner",
-				"naco-siren.gradle-language"
+				"naco-siren.gradle-language",
+				"fwcd.kotlin",
+				"mathiasfrohlich.Kotlin",
+				"sethjones.kotlin-on-vscode"
 			]
         }
 	}
