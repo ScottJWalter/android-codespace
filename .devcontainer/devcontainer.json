@@ -16,7 +16,8 @@
 				"naco-siren.gradle-language",
 				"fwcd.kotlin",
 				"mathiasfrohlich.Kotlin",
-				"sethjones.kotlin-on-vscode"
+				"sethjones.kotlin-on-vscode",
+				"DavidAnson.vscode-markdownlint"
 			]
         }
 	}
